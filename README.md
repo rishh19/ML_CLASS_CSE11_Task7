@@ -45,6 +45,4 @@ Enter value of k: 3
 
 Nearest neighbors: [[1500.2, 'No'], [1800.5, 'Yes'], [2100.7, 'No']]
 Prediction: NEW customer will NOT DEFAULT
-
-#License
-Free for educational use.
+---
